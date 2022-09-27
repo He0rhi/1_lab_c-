@@ -1,0 +1,14 @@
+D:\MYDOCUMENTS\BGTU\labs\ООП\лаба-1\bin\Debug\netcoreapp3.1\лаба-1.exe
+D:\MYDOCUMENTS\BGTU\labs\ООП\лаба-1\bin\Debug\netcoreapp3.1\лаба-1.deps.json
+D:\MYDOCUMENTS\BGTU\labs\ООП\лаба-1\bin\Debug\netcoreapp3.1\лаба-1.runtimeconfig.json
+D:\MYDOCUMENTS\BGTU\labs\ООП\лаба-1\bin\Debug\netcoreapp3.1\лаба-1.runtimeconfig.dev.json
+D:\MYDOCUMENTS\BGTU\labs\ООП\лаба-1\bin\Debug\netcoreapp3.1\лаба-1.dll
+D:\MYDOCUMENTS\BGTU\labs\ООП\лаба-1\bin\Debug\netcoreapp3.1\лаба-1.pdb
+D:\MYDOCUMENTS\BGTU\labs\ООП\лаба-1\obj\Debug\netcoreapp3.1\лаба-1.csproj.AssemblyReference.cache
+D:\MYDOCUMENTS\BGTU\labs\ООП\лаба-1\obj\Debug\netcoreapp3.1\лаба-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYDOCUMENTS\BGTU\labs\ООП\лаба-1\obj\Debug\netcoreapp3.1\лаба-1.AssemblyInfoInputs.cache
+D:\MYDOCUMENTS\BGTU\labs\ООП\лаба-1\obj\Debug\netcoreapp3.1\лаба-1.AssemblyInfo.cs
+D:\MYDOCUMENTS\BGTU\labs\ООП\лаба-1\obj\Debug\netcoreapp3.1\лаба-1.csproj.CoreCompileInputs.cache
+D:\MYDOCUMENTS\BGTU\labs\ООП\лаба-1\obj\Debug\netcoreapp3.1\лаба-1.dll
+D:\MYDOCUMENTS\BGTU\labs\ООП\лаба-1\obj\Debug\netcoreapp3.1\лаба-1.pdb
+D:\MYDOCUMENTS\BGTU\labs\ООП\лаба-1\obj\Debug\netcoreapp3.1\лаба-1.genruntimeconfig.cache
